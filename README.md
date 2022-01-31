@@ -1,0 +1,1 @@
+# comparative-between-queries-before-and-after-indexing-and-partitioning-
